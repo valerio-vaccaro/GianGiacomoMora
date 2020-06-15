@@ -55,6 +55,9 @@ venv
 venv3
 *.pyc
 
+*.old
+firmware/build
+
 app
 db
 doc
